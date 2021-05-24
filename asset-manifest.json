@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tarea3_websocket/static/css/main.b1857718.chunk.css",
+    "main.js": "/Tarea3_websocket/static/js/main.71fcc832.chunk.js",
+    "main.js.map": "/Tarea3_websocket/static/js/main.71fcc832.chunk.js.map",
+    "runtime-main.js": "/Tarea3_websocket/static/js/runtime-main.58e2faa1.js",
+    "runtime-main.js.map": "/Tarea3_websocket/static/js/runtime-main.58e2faa1.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/Tarea3_websocket/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.99a4680a.chunk.js": "/Tarea3_websocket/static/js/2.99a4680a.chunk.js",
+    "static/js/2.99a4680a.chunk.js.map": "/Tarea3_websocket/static/js/2.99a4680a.chunk.js.map",
+    "static/js/3.d75e4a23.chunk.js": "/Tarea3_websocket/static/js/3.d75e4a23.chunk.js",
+    "static/js/3.d75e4a23.chunk.js.map": "/Tarea3_websocket/static/js/3.d75e4a23.chunk.js.map",
+    "index.html": "/Tarea3_websocket/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/Tarea3_websocket/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.b1857718.chunk.css.map": "/Tarea3_websocket/static/css/main.b1857718.chunk.css.map",
+    "static/js/2.99a4680a.chunk.js.LICENSE.txt": "/Tarea3_websocket/static/js/2.99a4680a.chunk.js.LICENSE.txt",
+    "static/media/planeicon.2dc0d9df.jpeg": "/Tarea3_websocket/static/media/planeicon.2dc0d9df.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58e2faa1.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.99a4680a.chunk.js",
+    "static/css/main.b1857718.chunk.css",
+    "static/js/main.71fcc832.chunk.js"
+  ]
+}
