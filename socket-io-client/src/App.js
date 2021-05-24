@@ -58,7 +58,7 @@ export default function ClientComponent() {
     return (
     <div className = 'column-chat'>
     {Object.values(mensajes).map((msn, i) => (
-      <li  margin-left= "0.125rem"> "De: " { mensajes[i].name}  "|| => "  {mensajes[i].message} <br/> (         
+      <li > "De: " { mensajes[i].name}  "|| => "  {mensajes[i].message} <br/> (         
       {Date(mensajes[i].date).slice(16,25)}) </li>
   ))}
       
@@ -132,7 +132,7 @@ export default function ClientComponent() {
      ))}
      </ul>
 
-    <MapContainer  center ={{lat: '40.55555' , lng: '60.66666'}} zoom = {3}>
+    <MapContainer  center ={{lat: '-35.55555' , lng: '-70.66666'}} zoom = {3}>
         <TileLayer  url = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png' 
         attribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         />
